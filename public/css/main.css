@@ -1,0 +1,8 @@
+.straight{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.card-image{
+    max-width: 150px;
+}
